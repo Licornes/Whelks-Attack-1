@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen/SplashScreen-0.unity
+    guid: b9e4f9d4d85ce9642bcb3525f4faf3ea
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen/PreMenu.unity
+    guid: 9c21833600c25164fb94c852d2c99b7b
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4b76742cca2542d4d9cff7347b2e6624
+  - enabled: 1
+    path: Assets/Scenes/gameduel.unity
+    guid: f681656eebdbe4b4dad18f43623fe45f
